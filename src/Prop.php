@@ -3,5 +3,5 @@
 namespace patcher\test;
 
 class Prop{
-	public $prop = "Don";
+    public $prop = "Don";
 }
